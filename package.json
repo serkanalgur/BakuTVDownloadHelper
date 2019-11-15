@@ -1,0 +1,28 @@
+{
+  "name": "bakutv-download-helper",
+  "version": "1.0.0",
+  "description": "Telegram bot for downloading videos from Baku TV",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serkanalgur/BakuTVDownloadHelper.git"
+  },
+  "keywords": [
+    "download",
+    "helper",
+    "baku",
+    "tv"
+  ],
+  "author": "Serkan Algur <kaisercrazy@gmail.com> (https://github.com/serkanalgur)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serkanalgur/BakuTVDownloadHelper/issues"
+  },
+  "homepage": "https://github.com/serkanalgur/BakuTVDownloadHelper#readme",
+  "dependencies": {
+    "telegraf": "^3.33.3"
+  }
+}
